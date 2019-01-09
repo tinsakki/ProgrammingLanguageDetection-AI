@@ -20,7 +20,7 @@ https://shrouded-springs-95409.herokuapp.com/
 
 ### Clone the repo
 ```shell
-$ https://github.com/tinsakki/CAT-VS-DOGS.git
+$ https://github.com/tinsakki/ProgrammingLanguageDetection-AI.git
 ```
 
 Make sure you have the following installed:
